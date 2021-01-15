@@ -1,16 +1,20 @@
 body
 {
     background-color: linear-gradient(to bottom, #16242f, #294757, #3b6d80, #4d96a9, #61c2d0);
-    margin: 0;
-    padding: 0;
+    
 }
 
 .container
 {
     width: 100%;
     position:absolute;
-    top: 50%;
+    top: 10%;
     text-align: center;
+}
+
+h2{
+    font-family: ;
+    font-size: 60px ;
 }
 
 .container h1
