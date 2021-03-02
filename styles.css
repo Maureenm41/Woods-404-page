@@ -1,6 +1,10 @@
 body
 {
-    background-image: linear-gradient(45deg, #051937, #123e60, #246888, #3e94ae, #61c2d0);
+    /*background-image: linear-gradient(45deg, #051937, #123e60, #246888, #3e94ae, #61c2d0);*/
+    background-image: url("assets/pexels-pixabay-414144.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
 
@@ -15,6 +19,7 @@ body
     flex-wrap: wrap;
     flex-direction: column;
     align-items:center;
+    color: aliceblue;
 }
 
 h2{
